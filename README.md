@@ -2,7 +2,7 @@
 
 An academic Big Data project demonstrating real-time sentiment analysis through simulated tweet streams, micro-batch processing, and an interactive analytics dashboard.
 
-**Live Demo:** https://livetwittersentiment.lovable.app  
+**Live Demo:** https://live-twitter-sentiment-streaming.vercel.app  
 **GitHub Repository:** https://github.com/rishav-del/live-twitter-sentiment-streaming
 
 ---
